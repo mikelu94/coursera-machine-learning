@@ -1,0 +1,1 @@
+These are my solutions to the programming exercises of the [Machine Learning course](https://www.coursera.org/learn/machine-learning) on Coursera.
